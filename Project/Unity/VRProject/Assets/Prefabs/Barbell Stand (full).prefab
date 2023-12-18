@@ -8,9 +8,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 190927014237583497, guid: e065037f9d6a28d47b3306348d4c8e60, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f21bfe7a12b43d04c9d3be78dc3d330c, type: 2}
     - target: {fileID: 6138171374459367450, guid: e065037f9d6a28d47b3306348d4c8e60, type: 3}
       propertyPath: m_Name
       value: Barbell Stand (full)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6138171374459367450, guid: e065037f9d6a28d47b3306348d4c8e60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8214507442664513375, guid: e065037f9d6a28d47b3306348d4c8e60, type: 3}
       propertyPath: m_RootOrder
@@ -18,15 +26,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8214507442664513375, guid: e065037f9d6a28d47b3306348d4c8e60, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.481
+      value: -0.6548663
       objectReference: {fileID: 0}
     - target: {fileID: 8214507442664513375, guid: e065037f9d6a28d47b3306348d4c8e60, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 2.7349904
       objectReference: {fileID: 0}
     - target: {fileID: 8214507442664513375, guid: e065037f9d6a28d47b3306348d4c8e60, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 19.08
+      value: -2.8982048
       objectReference: {fileID: 0}
     - target: {fileID: 8214507442664513375, guid: e065037f9d6a28d47b3306348d4c8e60, type: 3}
       propertyPath: m_LocalRotation.w
@@ -180,10 +188,14 @@ PrefabInstance:
     - target: {fileID: 2525917652437560506, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 35fb0157429d61a4ebc616dce0f3ff61, type: 2}
+      objectReference: {fileID: 2100000, guid: 9fed8b07c22ba494ea58be6cf0e70690, type: 2}
     - target: {fileID: 7571601393540683899, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
       propertyPath: m_Name
       value: Dumbbells_1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7571601393540683899, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -206,10 +218,14 @@ PrefabInstance:
     - target: {fileID: 2834012409964350633, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 35fb0157429d61a4ebc616dce0f3ff61, type: 2}
+      objectReference: {fileID: 2100000, guid: 9fed8b07c22ba494ea58be6cf0e70690, type: 2}
     - target: {fileID: 3189458062249275470, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_Name
       value: Dumbbells_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3189458062249275470, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6197371537071267707, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_RootOrder
@@ -320,10 +336,14 @@ PrefabInstance:
     - target: {fileID: 2525917652437560506, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 35fb0157429d61a4ebc616dce0f3ff61, type: 2}
+      objectReference: {fileID: 2100000, guid: 9fed8b07c22ba494ea58be6cf0e70690, type: 2}
     - target: {fileID: 7571601393540683899, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
       propertyPath: m_Name
       value: Dumbbells_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7571601393540683899, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -390,10 +410,14 @@ PrefabInstance:
     - target: {fileID: 2525917652437560506, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 35fb0157429d61a4ebc616dce0f3ff61, type: 2}
+      objectReference: {fileID: 2100000, guid: 9fed8b07c22ba494ea58be6cf0e70690, type: 2}
     - target: {fileID: 7571601393540683899, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
       propertyPath: m_Name
       value: Dumbbells_1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7571601393540683899, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -416,10 +440,14 @@ PrefabInstance:
     - target: {fileID: 2834012409964350633, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 35fb0157429d61a4ebc616dce0f3ff61, type: 2}
+      objectReference: {fileID: 2100000, guid: 9fed8b07c22ba494ea58be6cf0e70690, type: 2}
     - target: {fileID: 3189458062249275470, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_Name
       value: Dumbbells_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3189458062249275470, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6197371537071267707, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_RootOrder
@@ -530,10 +558,14 @@ PrefabInstance:
     - target: {fileID: 2525917652437560506, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 35fb0157429d61a4ebc616dce0f3ff61, type: 2}
+      objectReference: {fileID: 2100000, guid: 9fed8b07c22ba494ea58be6cf0e70690, type: 2}
     - target: {fileID: 7571601393540683899, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
       propertyPath: m_Name
       value: Dumbbells_1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7571601393540683899, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -556,10 +588,14 @@ PrefabInstance:
     - target: {fileID: 2834012409964350633, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 35fb0157429d61a4ebc616dce0f3ff61, type: 2}
+      objectReference: {fileID: 2100000, guid: 9fed8b07c22ba494ea58be6cf0e70690, type: 2}
     - target: {fileID: 3189458062249275470, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_Name
       value: Dumbbells_2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3189458062249275470, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6197371537071267707, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_RootOrder
@@ -626,10 +662,14 @@ PrefabInstance:
     - target: {fileID: 2834012409964350633, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 35fb0157429d61a4ebc616dce0f3ff61, type: 2}
+      objectReference: {fileID: 2100000, guid: 9fed8b07c22ba494ea58be6cf0e70690, type: 2}
     - target: {fileID: 3189458062249275470, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_Name
       value: Dumbbells_2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3189458062249275470, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6197371537071267707, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_RootOrder
@@ -696,10 +736,14 @@ PrefabInstance:
     - target: {fileID: 2834012409964350633, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 35fb0157429d61a4ebc616dce0f3ff61, type: 2}
+      objectReference: {fileID: 2100000, guid: 9fed8b07c22ba494ea58be6cf0e70690, type: 2}
     - target: {fileID: 3189458062249275470, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_Name
       value: Dumbbells_2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3189458062249275470, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6197371537071267707, guid: b13f2dc57aaad8243a2a274bce0872e7, type: 3}
       propertyPath: m_RootOrder
@@ -810,10 +854,14 @@ PrefabInstance:
     - target: {fileID: 2525917652437560506, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 35fb0157429d61a4ebc616dce0f3ff61, type: 2}
+      objectReference: {fileID: 2100000, guid: 9fed8b07c22ba494ea58be6cf0e70690, type: 2}
     - target: {fileID: 7571601393540683899, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
       propertyPath: m_Name
       value: Dumbbells_1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7571601393540683899, guid: 03d198803b49baf469a60b021e8fecb6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
