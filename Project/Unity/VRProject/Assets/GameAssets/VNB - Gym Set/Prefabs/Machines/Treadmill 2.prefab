@@ -12,25 +12,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: Treadmill 2
       objectReference: {fileID: 0}
+    - target: {fileID: 3924020460342370085, guid: f600ec6eeecf5ea46a0b4ef7af71a9fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4379220457306037621, guid: f600ec6eeecf5ea46a0b4ef7af71a9fc, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 146e5298a8aad684ea84e21fce401c51, type: 2}
+      objectReference: {fileID: 2100000, guid: f21bfe7a12b43d04c9d3be78dc3d330c, type: 2}
     - target: {fileID: 4934718120249805140, guid: f600ec6eeecf5ea46a0b4ef7af71a9fc, type: 3}
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4934718120249805140, guid: f600ec6eeecf5ea46a0b4ef7af71a9fc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.733
+      value: -1.9339998
       objectReference: {fileID: 0}
     - target: {fileID: 4934718120249805140, guid: f600ec6eeecf5ea46a0b4ef7af71a9fc, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 2.7349904
       objectReference: {fileID: 0}
     - target: {fileID: 4934718120249805140, guid: f600ec6eeecf5ea46a0b4ef7af71a9fc, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 10.65
+      value: -10.89
       objectReference: {fileID: 0}
     - target: {fileID: 4934718120249805140, guid: f600ec6eeecf5ea46a0b4ef7af71a9fc, type: 3}
       propertyPath: m_LocalRotation.w
@@ -68,6 +72,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ac
       objectReference: {fileID: 0}
+    - target: {fileID: 5271665740002519291, guid: f600ec6eeecf5ea46a0b4ef7af71a9fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5847137449402450318, guid: f600ec6eeecf5ea46a0b4ef7af71a9fc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 990eb7f917c89b2469513fc4a0af327f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
