@@ -5,3 +5,4 @@ Link zur itch.io Seite
 
 Verwendete Assets
 https://vnbp.itch.io/low-poly-gym-set
+https://learn.unity.com/course/create-with-vr?uv=2020.3 (Kurspack)
