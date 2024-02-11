@@ -6,3 +6,6 @@ https://saluji.itch.io/vr-gym
 
 Verwendete Assets
 https://vnbp.itch.io/low-poly-gym-set
+
+Assets vom Unity Kurs Create with VR
+https://learn.unity.com/course/create-with-vr?uv=2021.3
