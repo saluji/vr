@@ -2,6 +2,7 @@ Link zum Git Repository
 https://github.com/saluji/vr
 
 Link zur itch.io Seite
+https://saluji.itch.io/vr-gym
 
 Verwendete Assets
 https://vnbp.itch.io/low-poly-gym-set
