@@ -1,31 +1,33 @@
 # vr
-# Projectname
-Ein einleitender Satz was sich in diesem Repo befindet.
+# VR Gym
+In this repository all changes throughout the creation of this prototype are being held here.
 
 ## Description
-Eine allgemeine und längere Beschreibung des Projektes.
+For this project our task was to build a prototype for education. We dediced to go for fitness and training in how to excert certain equipment in the gym.
 
 ### Features
-* Feature 1
-* Feature 2
+* an instruction about how to do each equipment and their respective workout
+* playing and placing with grabbable weight for immersion
+* an astonishing view of the buildings from within the gym
 
 ### Controls
-Wie steuert man in der Anwendung / Spiel?
+By holding the A / X button, a ray will cast. Once you direct it towards the ground and the color switches to white, you are able to teleport to that spot.
+For grabbing objects, hold the grip button.
 
 ## Author(s)
-Florian Machill
+Made by Erwin Oudomvylay, Thanh Pham and Max Kuhler
+
+## Link
+
+<a href="https://saluji.itch.io/vr-gym">Download the prototype from the itch.io page!</a>
 
 ## Credits
-This app/game was created at the Visualization and Interaction in Digital Media (VIS) program of HS Ansbach. 
+This app was created at the Visualization and Interaction in Digital Media (VIS) program of HS Ansbach. 
 
 Supervised by Prof. Florian Machill (Virtual Reality WS 23/24)
 
 ## Third Party Credits
 
-### Sound
-* Asset-Pack XY [Assetstore](https://assetstore.unity.com/)
-* Asset-Pack YZ [Assetstore](https://assetstore.unity.com/)
-
 ### 3D Assets
-* Asset-Pack XY [Assetstore](https://assetstore.unity.com/)
-* Asset-Pack YZ [Assetstore](https://assetstore.unity.com/)
+* Low poly gym set by VNB - Leo: https://vnbp.itch.io/low-poly-gym-set, https://vnbp.itch.io/
+* VR assets from the Create With VR course: https://learn.unity.com/course/create-with-vr
