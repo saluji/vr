@@ -31,3 +31,4 @@ Supervised by Prof. Florian Machill (Virtual Reality WS 23/24)
 ### 3D Assets
 * Low poly gym set by VNB - Leo: https://vnbp.itch.io/low-poly-gym-set, https://vnbp.itch.io/
 * VR assets from the Create With VR course: https://learn.unity.com/course/create-with-vr
+* Textures from https://www.textures.com/ & https://www.blenderkit.com/
