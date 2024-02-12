@@ -1,4 +1,3 @@
-# vr
 # VR Gym
 In this repository all changes throughout the creation of this prototype are being held here.
 
@@ -32,3 +31,4 @@ Supervised by Prof. Florian Machill (Virtual Reality WS 23/24)
 * Low poly gym set by VNB - Leo: https://vnbp.itch.io/low-poly-gym-set, https://vnbp.itch.io/
 * VR assets from the Create With VR course: https://learn.unity.com/course/create-with-vr
 * Textures from https://www.textures.com/ & https://www.blenderkit.com/
+* Exercise execution from the following websites: https://www.verywellfit.com/how-to-use-a-chest-fly-machine-4589757, https://barbend.com/overhead-press/, https://kinxlearning.com/pages/lat-pull-down
