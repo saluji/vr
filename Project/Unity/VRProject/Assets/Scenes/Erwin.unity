@@ -7284,6 +7284,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7169699140098408613, guid: 40cfff66a02048e40b8cda5bf09d8dcf, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7504531814399725391, guid: 40cfff66a02048e40b8cda5bf09d8dcf, type: 3}
       propertyPath: m_InteractionManager
       value: 
@@ -9610,6 +9614,14 @@ PrefabInstance:
     - target: {fileID: 3932018064401683335, guid: 40cfff66a02048e40b8cda5bf09d8dcf, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169699140098408613, guid: 40cfff66a02048e40b8cda5bf09d8dcf, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7504531814399725391, guid: 40cfff66a02048e40b8cda5bf09d8dcf, type: 3}
+      propertyPath: m_MovementType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7504531814399725391, guid: 40cfff66a02048e40b8cda5bf09d8dcf, type: 3}
       propertyPath: m_InteractionManager
@@ -19161,6 +19173,14 @@ PrefabInstance:
     - target: {fileID: 7169699140098408613, guid: 40cfff66a02048e40b8cda5bf09d8dcf, type: 3}
       propertyPath: m_Mass
       value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169699140098408613, guid: 40cfff66a02048e40b8cda5bf09d8dcf, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7504531814399725391, guid: 40cfff66a02048e40b8cda5bf09d8dcf, type: 3}
+      propertyPath: m_MovementType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7504531814399725391, guid: 40cfff66a02048e40b8cda5bf09d8dcf, type: 3}
       propertyPath: m_InteractionManager
