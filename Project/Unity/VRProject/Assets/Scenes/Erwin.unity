@@ -701,7 +701,7 @@ PrefabInstance:
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionManager
       value: 
-      objectReference: {fileID: 413791506}
+      objectReference: {fileID: 2084660797}
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionLayers.m_Bits
       value: 4
@@ -854,7 +854,7 @@ PrefabInstance:
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionManager
       value: 
-      objectReference: {fileID: 413791506}
+      objectReference: {fileID: 2084660797}
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionLayers.m_Bits
       value: 4
@@ -992,7 +992,7 @@ PrefabInstance:
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionManager
       value: 
-      objectReference: {fileID: 413791506}
+      objectReference: {fileID: 2084660797}
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionLayers.m_Bits
       value: 4
@@ -2018,7 +2018,7 @@ GameObject:
   - component: {fileID: 413791507}
   - component: {fileID: 413791506}
   m_Layer: 0
-  m_Name: XR Interaction Manager
+  m_Name: XRIM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2481,7 +2481,7 @@ PrefabInstance:
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionManager
       value: 
-      objectReference: {fileID: 413791506}
+      objectReference: {fileID: 2084660797}
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionLayers.m_Bits
       value: 4
@@ -3567,7 +3567,7 @@ GameObject:
   m_Component:
   - component: {fileID: 617616090}
   m_Layer: 0
-  m_Name: XR (1)
+  m_Name: XR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3613,7 +3613,7 @@ PrefabInstance:
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionManager
       value: 
-      objectReference: {fileID: 413791506}
+      objectReference: {fileID: 2084660797}
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionLayers.m_Bits
       value: 4
@@ -3809,7 +3809,7 @@ PrefabInstance:
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionManager
       value: 
-      objectReference: {fileID: 413791506}
+      objectReference: {fileID: 2084660797}
     - target: {fileID: 5344022771669459167, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
@@ -4418,7 +4418,7 @@ PrefabInstance:
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionManager
       value: 
-      objectReference: {fileID: 413791506}
+      objectReference: {fileID: 2084660797}
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionLayers.m_Bits
       value: 4
@@ -6078,7 +6078,7 @@ PrefabInstance:
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionManager
       value: 
-      objectReference: {fileID: 413791506}
+      objectReference: {fileID: 2084660797}
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionLayers.m_Bits
       value: 4
@@ -9269,7 +9269,7 @@ Transform:
   m_GameObject: {fileID: 1660142879}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.72, y: -0.5, z: 0}
+  m_LocalPosition: {x: -4.72, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9292,7 +9292,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1673982182
 Transform:
   m_ObjectHideFlags: 0
@@ -10480,7 +10480,7 @@ PrefabInstance:
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionManager
       value: 
-      objectReference: {fileID: 413791506}
+      objectReference: {fileID: 2084660797}
     - target: {fileID: 4702183174778483879, guid: 953d214180b434d4f843317159a6da0c, type: 3}
       propertyPath: m_InteractionLayers.m_Bits
       value: 4
@@ -15231,6 +15231,7 @@ GameObject:
   - component: {fileID: 5545536550946779267}
   - component: {fileID: 5545536550946779266}
   - component: {fileID: 5545536550946779268}
+  - component: {fileID: 5545536550946779269}
   m_Layer: 0
   m_Name: Bar
   m_TagString: Untagged
@@ -18823,9 +18824,9 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 16
   m_DistanceCalculationMode: 1
-  m_SelectMode: 0
+  m_SelectMode: 1
   m_FocusMode: 1
   m_CustomReticle: {fileID: 0}
   m_AllowGazeInteraction: 0
@@ -18858,7 +18859,19 @@ MonoBehaviour:
       m_Calls: []
   m_SelectExited:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 5545536550946779269}
+        m_TargetAssemblyTypeName: BarPosition, Assembly-CSharp
+        m_MethodName: MoveToInitial
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_FirstFocusEntered:
     m_PersistentCalls:
       m_Calls: []
@@ -18915,17 +18928,17 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
   m_AngularVelocityScale: 1
   m_TrackPosition: 1
-  m_SmoothPosition: 0
+  m_SmoothPosition: 1
   m_SmoothPositionAmount: 5
   m_TightenPosition: 0.5
   m_TrackRotation: 1
-  m_SmoothRotation: 0
+  m_SmoothRotation: 1
   m_SmoothRotationAmount: 5
   m_TightenRotation: 0.5
   m_ThrowOnDetach: 1
@@ -18978,8 +18991,8 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 122
-  m_CollisionDetection: 1
+  m_Constraints: 0
+  m_CollisionDetection: 2
 --- !u!65 &5545536550946779268
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19001,6 +19014,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.3087081, y: 0.10624215, z: 0.037263837}
   m_Center: {x: -2.450605e-16, y: -0.0344892, z: -0.00000001117587}
+--- !u!114 &5545536550946779269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1471530474923559025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7be8bd3979b94249973fad68f17ac3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &5561583889554121193
 Transform:
   m_ObjectHideFlags: 0
