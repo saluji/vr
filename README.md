@@ -14,7 +14,7 @@ By holding the A / X button, a ray will cast. Once you direct it towards the gro
 For grabbing objects, hold the grip button.
 
 ## Author(s)
-Made by Erwin Oudomvylay, Thanh Pham and Max Kuhler
+Made by Saluji, Thanh Pham and Max Kuhler
 
 ## Link
 
